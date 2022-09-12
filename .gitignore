@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+GameCore/.vs/GameCore/v16/.suo
+*.db
+*.ipch
+*.pdb
+*.recipe
+*.ilk
+*.log
+*.res
+*.tlog
+*.idb
+*.filters
+*.vcxproj
+*.user
